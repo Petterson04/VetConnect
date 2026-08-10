@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">VETCONNECT</string>
+    <string name="title_activity_nav_graphs">NavGraphs</string>
+    <string name="title_activity_login_screen">LoginScreen</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_add_pet_screen">AddPetScreen</string>
+    <string name="title_activity_add_appointment_screen">AddAppointmentScreen</string>
+    <string name="title_activity_appointmeent_list_screen">AppointmeentListScreen</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_registro">Registro</string>
+    <string name="title_activity_pantalla_veterinario">PantallaVeterinario</string>
+    <string name="title_activity_pantalla_ciente">PantallaCiente</string>
+    <string name="title_activity_pantalla_generica">PantallaGenerica</string>
+    <string name="title_activity_agregar_mascota">AgregarMascota</string>
+    <string name="title_activity_citas">Citas</string>
+    <string name="title_activity_agregar_cita">AgregarCita</string>
+    <string name="title_activity_mascotas">Mascotas</string>
+    <string name="title_activity_editar_cita">EditarCita</string>
+</resources>
